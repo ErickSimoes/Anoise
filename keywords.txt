@@ -1,0 +1,12 @@
+#######################################
+# Syntax Coloring Map anoise
+# by Erick Simões
+# 	github: @ErickSimoes
+#	twitter: @AloErickSimoes
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+#setRangeSize	KEYWORD2
+#Smooth	KEYWORD2
